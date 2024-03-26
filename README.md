@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-https://portfolio-webmarket.pythonanywhere.com/
-https://webmarket.pythonanywhere.com/
+### Python - Django backend junior developer
+
+[Personal Portfolio](https://portfolio-webmarket.pythonanywhere.com/)  
+[Website](https://webmarket.pythonanywhere.com/) 
+
+
+
 
 <!--
 **vlabeit/vlabeit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
