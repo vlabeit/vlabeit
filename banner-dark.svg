@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Vladi, full-stack developer">
+<defs>
+<linearGradient id="shift" gradientUnits="userSpaceOnUse" x1="726" y1="0" x2="1136" y2="0">
+<stop offset="0" stop-color="#22d3ee"/>
+<stop offset="0.5" stop-color="#3b82f6"/>
+<stop offset="1" stop-color="#8b5cf6"/>
+</linearGradient>
+</defs>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="#0d1117" stroke="#3d444d"/>
+<text x="64" y="148" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="96" font-weight="700" letter-spacing="-3" fill="#f0f6fc">Vladi</text>
+<text x="68" y="204" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="30" fill="#9198a1">Full-stack developer</text>
+<text x="68" y="252" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="22" fill="#7d8590">django · next.js · ios</text>
+<text x="751" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ש</text>
+<text x="811" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ו</text>
+<text x="871" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ה</text>
+<text x="931" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ד</text>
+<text x="991" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ג</text>
+<text x="1051" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">ב</text>
+<text x="1111" y="86" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#9198a1">א</text>
+<rect x="726" y="104" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="786" y="104" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="846" y="104" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="906" y="104" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="966" y="104" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="1026" y="104" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="1086" y="104" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="726" y="154" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="787" y="155" width="48" height="38" rx="8" fill="none" stroke="#656c76" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="846" y="154" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="906" y="154" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="966" y="154" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="1026" y="154" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="1086" y="154" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="726" y="204" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="786" y="204" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="846" y="204" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="906" y="204" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="966" y="204" width="50" height="40" rx="9" fill="url(#shift)"/>
+<rect x="1026" y="204" width="50" height="40" rx="9" fill="#1c2129"/>
+<rect x="1086" y="204" width="50" height="40" rx="9" fill="url(#shift)"/>
+</svg>
